@@ -1,5 +1,7 @@
 ﻿# IncreaseSaveSlotLimit
 
-This is not fully tested. Use at your own risk. Beta testers welcome.
+Increases save slots to 999 instead of the default 25.
 
-Increases save slots to 999
+> Warning:
+> Removing this mod might cause you to lose saves if you have more than 25.
+> Use at your own risk.
